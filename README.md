@@ -1,2 +1,2 @@
-# LearnHazel
-Learn Hazel Engine
+# LearnGameEngine
+Learn Game Engine
