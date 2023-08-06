@@ -52,7 +52,7 @@ namespace Hazel {
 	{
 	public:
 
-		inline float GetMouseButton() const { return m_Button; }
+		inline int GetMouseButton() const { return m_Button; }
 
 		EVENT_CLASS_CATEGORY(EventCategoryMouse | EventCategoryInput)
 	protected:
